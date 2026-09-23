@@ -1,0 +1,32 @@
+# Maven
+target/
+**/target/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.class
+*.jar
+*.war
+
+# Other
+/.mvn/wrapper/maven-wrapper.jar
+/.settings/
